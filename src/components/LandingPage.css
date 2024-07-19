@@ -1,0 +1,51 @@
+/* Add this CSS to style the custom-refer-button class */
+.custom-refer-button {
+    position: absolute;
+    top: 650px;
+    left: -300px;
+    transform: translate(-50%, -50%);
+    background-color: #00ff08; /* Green background */
+    color: white; /* White text */
+    font-size: 16px; /* Increase font size */
+    padding: 10px 20px; /* Add padding */
+    border-radius: 8px; /* Rounded corners */
+    transition: background-color 0.3s ease; /* Smooth transition for background color */
+  }
+  
+  .custom-refer-button:hover {
+    background-color: #45a049; /* Darker green on hover */
+  }
+
+  .custom-refer-button2 {
+    position: absolute;
+    top: 700px;
+    left: 100px;
+    transform: translate(-50%, -50%);
+    background-color: #00ff08; /* Green background */
+    color: white; /* White text */
+    font-size: 16px; /* Increase font size */
+    padding: 10px 20px; /* Add padding */
+    border-radius: 8px; /* Rounded corners */
+    transition: background-color 0.3s ease; /* Smooth transition for background color */
+  }
+  
+  .custom-refer-button2:hover {
+    background-color: #45a049; /* Darker green on hover */
+  }
+
+  .custom-refer-button3 {
+    position: absolute;
+    top: 1900px;
+    left: 100px;
+    transform: translate(-50%, -50%);
+    background-color: #00ff08; /* Green background */
+    color: white; /* White text */
+    font-size: 16px; /* Increase font size */
+    padding: 10px 20px; /* Add padding */
+    border-radius: 8px; /* Rounded corners */
+    transition: background-color 0.3s ease; /* Smooth transition for background color */
+  }
+  
+  .custom-refer-button2:hover {
+    background-color: #45a049; /* Darker green on hover */
+  }
